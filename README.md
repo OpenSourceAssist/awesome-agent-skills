@@ -207,6 +207,11 @@ LLM Skills are customizable workflows that teach LLM how to perform specific tas
 - [resemble-detect](./resemble-detect/) - Detect deepfakes in audio, image, video, and text with confidence scores, audio source tracing, watermarking, and voice-profile identity verification via the Resemble AI platform.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
 
+### Developer Marketing Skills
+
+- [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing.
+By [Infrasity-Labs](https://github.com/Infrasity-Labs)
+
 ## Platforms
 
 ### Claude Code (Anthropic)
